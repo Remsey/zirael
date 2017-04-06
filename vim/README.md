@@ -1,2 +1,2 @@
-~/.vim/colors/badwolf.vim
-~/.vimrc
+### ~/.vim/colors/badwolf.vim
+### ~/.vimrc
